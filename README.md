@@ -9,7 +9,7 @@ https://docs.aws.amazon.com/ses/latest/dg/send-email.html
 https://cloud.google.com/text-to-speech/docs/basics
 
 # Footage
-[register](https://github.com/user-attachments/assets/6714e7fa-bd9e-4d9e-a900-3964e8311d30)
+![register](https://github.com/user-attachments/assets/6714e7fa-bd9e-4d9e-a900-3964e8311d30)
 ![ses](https://github.com/user-attachments/assets/be304594-70fe-46d8-b94c-9d136e486a78)
 ![login](https://github.com/user-attachments/assets/b2fa72b7-e404-4c0f-acfd-d15976981de4)
 ![process](https://github.com/user-attachments/assets/ee4b22e7-f035-4908-b7dd-87d1bada2717)
