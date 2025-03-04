@@ -3,9 +3,9 @@ Youtube Transcriber is a powerful web application for converting YouTube videos 
 
 # Documentation
 All the necessary information about RabbitMQ, Redis, AWS SES, and Google Text To Speech API can be found at the links:
-https://www.rabbitmq.com/tutorials
-https://redis.io/docs/latest/
-https://docs.aws.amazon.com/ses/latest/dg/send-email.html
+https://www.rabbitmq.com/tutorials,
+https://redis.io/docs/latest/,
+https://docs.aws.amazon.com/ses/latest/dg/send-email.html,
 https://cloud.google.com/text-to-speech/docs/basics
 
 # Footage
